@@ -1,0 +1,203 @@
+Template:
+
+Day #
+=====
+
+Overall Goal
+------------
+
+
+Daily Goal
+----------
+
+
+Settings
+--------
+1. 
+
+
+Timeline
+--------
+1-1:30 PM:
+*
+
+1:30-2 PM:
+*
+
+2-2:30 PM:
+*
+
+2:30-3 PM:
+*
+
+3-4 PM: Tea Time
+
+4-4:30 PM:
+*
+
+4:30-5 PM:
+*
+
+
+===
+LOG
+===
+
+Day 2
+=====
+
+Overall Goal
+------------
+
+
+Daily Goal
+----------
+Frequency domain analysis of Ruby samples
+
+Settings
+--------
+1. Function generator : Square wave, 4 V_pp, 10 Hz, 2 V_dc offset.
+
+2. f-domain software : Delay constant: 2, frequency range: 1-150Hz, 100points, measured harmonic number: 1. 
+
+
+Timeline
+--------
+1-1:30 PM:
+* Theory overview of frequency domain
+Frequency domain for ruby 1
+
+1:30-2 PM:
+* Frequency domain for rubies 2/3
+* Plotted intensity v/s wavelength graphs for all four rubies. Rubies 3 and 6 show strongest evidence of the existence of a second energy level.
+
+2-2:30 PM:
+* Frequency domain for ruby 6
+
+2:30-3 PM:
+* LED reading.
+
+3-4 PM: Tea Time
+
+Lecture on ferroelectrics.
+
+4-5 PM:
+* Ruby 6 reading taken again, since first 17 readings were not meaningful.
+* LED results did not match expected shape of Modulation v. frequency plots, so it was recorded once again. 
+* Attempted to plot the modulation and phase v/s frequency graphs for the four different samples.
+
+Day 3
+=====
+
+Overall Goal
+------------
+
+
+Daily Goal
+----------
+Temperature domain analysis of the ruby 1. Data analysis of rubies from frequency and time domains.
+
+Settings
+--------
+1. 10 hz, same as frequency domain.
+
+
+Timeline
+--------
+1-1:30 PM:
+* Setup cryostat and insert sample into it.
+* Increase the temperature to 450 K with a ramp speed of 1000.
+* Once it gets there we'll cool it down with liquid nitrogen to 100 K taking snapshots throughout so we can build a curve from the points.
+
+1:30-3:00 PM:
+* Looked at the data from the frequency domain and attempted a fit. Results are below:
+
+Ruby 2
+C = 1.00115 ± 0.04864
+alpha = 0.69318 ± 0.31225
+tau1 = 0.00457 ± 3.93261E-4
+tau2 = 0.00328 ± 5.04714E-4
+s=1
+
+Ruby 6
+C = 1.68863 ± 0.0249
+alpha = 0.89484 ± 0.00187
+tau1 = 0.00404 ± 1.11777E-5
+tau2 = 8.51214E-4 ± 1.42379E-5
+s = 1 
+
+Rubies 1/3 fit displayed weird behaviour; large error in alpha value and same value for tau1 and tau2. The reason for this has not yet been discerned, but it was observed that
+there was a jump discontinuity around 100Hz in the LED phase plot. This also indicated to us that we may have to retake data for these samples.
+
+An analysis of the data from the wavelength domain was also conducted.
+
+3-4 PM: Tea Time and journal club presentations on physics of "juiced" baseballs and corked bats; lead-acid battery recycling. 
+
+4-5pm:
+
+Finished up temperature domain analysis for ruby 1. Attempted to correct the errors seen with the fit, not to much success however.
+
+Day 4
+=====
+
+Overall Goal
+------------
+
+
+Daily Goal
+----------
+
+
+Settings
+--------
+1. f-domain software : Delay constant: 2, frequency range: 1-150Hz, 100points, measured harmonic number: 1. 
+
+## Determined that ruby 1 has one lifetime, rubies 2/3/6 have two.
+
+Timeline
+--------
+1-1:30 PM:
+Keeping ruby at the same temperature (start at ~295).
+
+1:30-2 PM:
+Second run at temperature, T=350K.
+
+2-3 PM:
+* Waiting for temperature to stabilize and 
+
+3-4 PM: Tea Time
+
+4-4:30 PM:
+Third run at temperature, T=400K.
+
+4:30-5 PM:
+*
+
+
+
+
+
+Lowering temperature, don't restart!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
